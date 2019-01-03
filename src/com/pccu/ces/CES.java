@@ -18,16 +18,13 @@ public class CES extends Student {
 
 	private static ArrayList<Student> list ;
 	
-	private static void ReadFile (String filepath) {
-		
-		//實作ReadFile存檔 
+	private static void ReadFile (String filepath) { 
 		/*
 		 * Your Work !
 		 * */
 	}
 	
-	private static void WriteFile (ArrayList<Student> list, String filepath) {
-		//實作WriteFile存檔 
+	private static void WriteFile (ArrayList<Student> list, String filepath) { 
 		/*
 		 * Your Work !
 		 * */
